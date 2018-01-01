@@ -102,7 +102,7 @@ section {
 }
 
 .label3 {
-    background-color: rgba(255, 0, 0, 0.6);
+    background-color: rgba(250, 43, 43, 0.6);
     display: flex;
 }
 
@@ -125,7 +125,7 @@ section {
     flex: 1;
     padding: 80px;
     text-align: justify;
-    background-color:rgba(255, 102, 0, 0.7);
+    background-color:rgba(235, 149, 92, 0.7);
 }
 
 .chiImg {
@@ -138,7 +138,7 @@ section {
 .s4 {
     padding: 80px;
     text-align: justify;
-    background-color: rgba(255, 255, 0, 0.6);
+    background-color: rgba(241, 241, 107, 0.6);
 }
 
 .s5 {
@@ -183,13 +183,13 @@ section {
 }
 
 .s7 {
-    background-color: rgba(8, 138, 8, 0.801);
+    background-color: rgba(158, 250, 158, 0.6);
     padding: 40px 100px;
     text-align: justify;
 }
 
 .s8 {
-    background-color: rgba(37, 145, 233, 0.8);
+    background-color: rgba(128, 192, 245, 0.6);
     display: flex;
 }
 
@@ -205,7 +205,7 @@ section {
 }
 
 .s9 {
-    background-color: rgba(0, 0, 189, 0.6);
+    background-color: rgba(175, 175, 248, 0.6);
     display: flex;
 }
 
